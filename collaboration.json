@@ -75,89 +75,89 @@
         }
 
     ],
-    "projects": [
+    "products": [
         {
-            "type": "project",
+            "type": "product",
             "name": "Batch Uploader",
             "description": "The statistical tools used widely at the LHC, and almost exclusively for the Higgs discovery.",
             "group": "11",
             "slug": "batchuploader"
         },
         {
-            "type": "project",
+            "type": "product",
             "name": "Balance RTSM",
             "description": "A tool for building statistical models based on histogram templates, with a rich set of components for modeling systeamtic uncertainties through simulation-based and data-driven approaches.",
             "group": "11",
             "slug": "balance"
         },
         {
-            "type": "project",
+            "type": "product",
             "name": "Cloud Admin",
             "description": "Cloud Admin is a toolbox for likelihood-free inference - <a href=\"http://diana-hep.org/carl\">documentation</a> | <a href=\"https://github.com/diana-hep/carl\">code</a>",
             "group": "11",
             "slug": "cloudadmin"
         },
         {
-            "type": "project",
+            "type": "product",
             "name": "Coder",
             "description": "A coder to make it possible to reinterpret experimental results in the context of a different theoretical  model.",
             "group": "12",
             "slug": "coder"
         },
         {
-            "type": "project",
+            "type": "product",
             "name": "CSA",
             "description": "CSA is a language and engine for flexible, distributed workflows. Originally written by Lukas Heinrich to serve as the backend for Recast, it is now being extended via MSDSE, DASPOS, and CERN and integrated into various projects)- <a href=\"http://yadage.readthedocs.io\">docs</a> | <a href=\"https://github.com/diana-hep/yadage\">code</a>",
             "group": "12",
             "slug": "CSA"
         },
         {
-            "type": "project",
+            "type": "product",
             "name": "CTMS",
             "description": "",
             "group": "11",
             "slug": "CTMS"
         },
         {
-            "type": "project",
+            "type": "product",
             "name": "Design Optimizer",
             "description": "",
             "slug": "design"
         },
         {
-            "type": "project",
+            "type": "product",
             "name": "MMI",
             "description": "",
             "slug": "imaging"
         },
         {
-            "type": "project",
+            "type": "product",
             "name": "Grants Manager",
             "description": "",
             "slug": "grantsmanager"
         },
         {
-            "type": "project",
+            "type": "product",
             "name": "iMedidata",
             "description": "",
             "slug": "imedidata"
         },
         {
-            "type": "project",
+            "type": "product",
             "name": "OPAL",
             "description": "Decoupling uncertainties through composition (emphasis on theoretical uncertainties and Higgs measurements)  <a href=\"https://arxiv.org/abs/1401.0080\">paper</a> | <a href=\"https://github.com/svenkreiss/decouple\">code</a>",
             "group": "11",
             "slug": "opal"
         },
         {
-            "type": "project",
+            "type": "product",
             "name": "Insights",
             "description": "<a href=\"http://www.svenkreiss.com/UnicodeIt\">UnicodeIt</a>",
             "group": "12",
             "slug": "insights"
         },
         {
-            "type": "project",
+            "type": "product",
             "name": "MEDS",
             "description": "",
             "group": "11",
