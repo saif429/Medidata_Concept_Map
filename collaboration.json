@@ -2,76 +2,101 @@
     "ditems": [
         {
             "type": "ditem",
-            "name": "Study Planning",
+            "name": "Trial Start-Up",
             "description": "<a href=\"http://theoryandpractice.org\">Kyle Cranmer</a> is a professor of phyiscs and data science at NYU.",
             "ditem": 1,
             "date": "2012-05-05 23:50:11",
             "slug": "ditem-kyle-cranmer",
             "links": [
                 "Recast",
+                "RooStats",
+                "HistFactory",
+                "Carl",
+                "yadage",
+                "decouple",
+                "Higgs EFT",
+                "Information Geometry",
+                "Gaussian Processes",
+                "UnicodeIt",
+                "Jet Embeddings",
+                "ML w/ Systematics",
+                "Physics AI",
+                "ATLAS",
+                "ALEPH",
+                "APEX",
+                "Crayfis",
+                "INSPIRE",
+                "HEPData",
+                "MSDSE",
+                "DIANA",
+                "DASPOS",
+                "CAP",
+                "CDS@NYU",
+                "CCPP@NYU",
                 "EPP@NYU"
             ]
         },
         {
             "type": "ditem",
-            "name": "Site Support",
+            "name": "Trial Planning",
             "description": "<a href=\"http://www.lukasheinrich.com/\">Lukas Heinrich</a>",
             "ditem": 2,
             "date": "2012-05-09 15:53:27",
             "slug": "ditem-lukas-heinrich",
             "links": [
                 "Recast",
+                "yadage",
+                "Higgs EFT",
+                "Information Geometry",
+                "Jet Embeddings",
+                "Physics AI",
+                "ATLAS",
+                "HEPData",
+                "CAP",
+                "DIANA",
+                "DASPOS",
+                "CAP",
+                "CDS@NYU",
+                "CCPP@NYU",
                 "EPP@NYU"
             ]
         },
         {
             "type": "ditem",
-            "name": "Patient Engagement",
+            "name": "Trial Execution",
             "description": "<a href=\"https://glouppe.github.io//\">Gilles Louppe</a>",
             "ditem": 3,
             "date": "2012-05-09 15:53:27",
             "slug": "ditem-gilles-louppe",
             "links": [
                 "Carl",
+                "Higgs EFT",
+                "Jet Embeddings",
+                "ML w/ Systematics",                
+                "scikit-optimize",
+                "Physics AI",
+                "ATLAS",
+                "INSPIRE",
+                "MSDSE",
+                "DIANA",
+                "CDS@NYU",
                 "EPP@NYU"
             ]
         },
         {
             "type": "ditem",
-            "name": "Study Conduct",
+            "name": "Trial Close-Out",
             "description": "Tilman Plehn is ",
-            "ditem": 4,
+            "ditem": 9,
             "date": "2012-05-09 15:53:27",
             "slug": "ditem",
             "links": [
                 "Higgs EFT",
+                "decouple",
                 "Information Geometry"
             ]
         }
-        {
-            "type": "ditem",
-            "name": "Optimize Outcomes",
-            "description": "Tilman Plehn is ",
-            "ditem": 5,
-            "date": "2012-05-09 15:53:27",
-            "slug": "ditem",
-            "links": [
-                "Higgs EFT",
-                "Information Geometry"
-            ]
-        }
-        {
-            "type": "ditem",
-            "name": "Platform & Services",
-            "description": "Tilman Plehn is ",
-            "ditem": 6,
-            "date": "2012-05-09 15:53:27",
-            "slug": "ditem",
-            "links": [
-                "Higgs EFT",
-                "Information Geometry"
-            ]
-        }
+
     ],
     "projects": [
         {
