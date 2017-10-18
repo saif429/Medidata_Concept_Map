@@ -181,113 +181,65 @@
         },
         {
             "type": "collaboration",
-            "name": "CMS",
+            "name": "Safety Gateway",
             "description": "<a href=\"http://cms.cern\">CMS is an experiment at CERN designed to explore the secrets of the universe.</a>",
-            "slug": "cms",
+            "slug": "safe",
             "count": "10",
             "group": "1"
         },
         {
             "type": "collaboration",
-            "name": "LHCb",
+            "name": "TSDV",
             "description": "<a href=\"http://lhcb-public.web.cern.ch/lhcb-public/\">LHCb is an experiment set up to explore what happened after the Big Bang that allowed matter to survive and build the Universe we inhabit today</a>",
-            "slug": "lhcb",
+            "slug": "tsdv",
             "count": "10",
             "group": "1"
         },
         {
             "type": "collaboration",
-            "name": "ALEPH",
+            "name": "TotalView",
             "description": "An old experiment at LEP <a href=\"https://www.wired.com/2015/01/higgs-discovery-hijack-attempt/\">that motivated my interest in data and software preservation</a>",
-            "slug": "aleph",
+            "slug": "total",
             "count": "10",
             "group": "1"
         },
         {
             "type": "collaboration",
-            "name": "APEX",
+            "name": "App Connect",
             "description": "An experiment at Jefferson Lab looking for a fifth force carried by a \"dark photon\".",
-            "slug": "apex",
+            "slug": "app",
             "count": "10",
             "group": "1"
         },
         {
             "type": "collaboration",
-            "name": "CRAYFIS",
+            "name": "ePro",
             "description": "<a href=\"https://crayfis.io\">The app that turns your phone into a cosmic ray detector. No joke.</a>",
-            "slug": "crayfis",
+            "slug": "epro",
             "count": "10",
             "group": "1"
         },
         {
             "type": "collaboration",
-            "name": "DIANA",
+            "name": "Enroll",
             "description": "<a href=\"http://diana-hep.org\">Sustainable Software for High Energy Physics</a>",
-            "slug": "diana",
+            "slug": "enroll",
             "count": "10",
             "group": "2"
         },
         {
             "type": "collaboration",
-            "name": "DASPOS",
+            "name": "Sensor Link",
             "description": "<a href=\"https://daspos.crc.nd.edu\">Data And Software Preservation for High Energy Physics</a>",
-            "slug": "daspos",
+            "slug": "sensor",
             "count": "10",
             "group": "2"
         },
         {
             "type": "collaboration",
-            "name": "CAP",
+            "name": "Strategic Monitoring",
             "description": "CERN Analysis Preservation project",
-            "slug": "cap",
-            "count": "10",
-            "group": "2"
-        },
-        {
-            "type": "collaboration",
-            "name": "INSPIRE",
-            "description": "<a href=\"http://inspirehep.net\">INSPIRE: High Energy physics Literature Database</a>",
-            "slug": "inspire",
-            "count": "10",
-            "group": "2"
-        },
-        {
-            "type": "collaboration",
-            "name": "HEPData",
-            "description": "<a href=\"https://hepdata.net\">HEPData: High Energy Physics Data Repository</a>",
-            "slug": "hepdata",
-            "count": "10",
-            "group": "2"
-        },
-        {
-            "type": "collaboration",
-            "name": "CDS@NYU",
-            "description": "<a href=\"http://cds.nyu.edu\">Center for Data Science at NYU</a>",
-            "slug": "inspire",
-            "count": "10",
-            "group": "2"
-        },
-        {
-            "type": "collaboration",
-            "name": "MSDSE",
-            "description": "<a href=\"http://msdse.org\">Moore-Sloan Data Science Environment</a>",
-            "slug": "inspire",
-            "count": "10",
-            "group": "2"
-        },
-        {
-            "type": "collaboration",
-            "name": "CCPP@NYU",
-            "description": "<a href=\"http://cosmo.nyu.edu\">Center for Cosmology and Particle Physics at NYU</a>",
-            "slug": "inspire",
-            "count": "10",
-            "group": "2"
-        },
-        {
-            "type": "collaboration",
-            "name": "EPP@NYU",
-            "description": "<a href=\"http://physics.nyu.edu/experimentalparticle/\">Experimental Particle Physics at NYU</a>",
-            "slug": "inspire",
+            "slug": "strategic",
             "count": "10",
             "group": "2"
         }
