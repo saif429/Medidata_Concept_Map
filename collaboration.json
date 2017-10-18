@@ -99,48 +99,48 @@
         },
         {
             "type": "project",
-            "name": "Recast",
-            "description": "A project to make it possible to reinterpret experimental results in the context of a different theoretical  model.",
+            "name": "Coder",
+            "description": "A coder to make it possible to reinterpret experimental results in the context of a different theoretical  model.",
             "group": "12",
-            "slug": "recast"
+            "slug": "coder"
         },
         {
             "type": "project",
-            "name": "yadage",
-            "description": "yadage is a language and engine for flexible, distributed workflows. Originally written by Lukas Heinrich to serve as the backend for Recast, it is now being extended via MSDSE, DASPOS, and CERN and integrated into various projects)- <a href=\"http://yadage.readthedocs.io\">docs</a> | <a href=\"https://github.com/diana-hep/yadage\">code</a>",
+            "name": "CSA",
+            "description": "CSA is a language and engine for flexible, distributed workflows. Originally written by Lukas Heinrich to serve as the backend for Recast, it is now being extended via MSDSE, DASPOS, and CERN and integrated into various projects)- <a href=\"http://yadage.readthedocs.io\">docs</a> | <a href=\"https://github.com/diana-hep/yadage\">code</a>",
             "group": "12",
-            "slug": "cyberinfrastructure"
+            "slug": "CSA"
         },
         {
             "type": "project",
-            "name": "Higgs EFT",
+            "name": "CTMS",
             "description": "",
             "group": "11",
-            "slug": "ml"
+            "slug": "CTMS"
         },
         {
             "type": "project",
-            "name": "Jet Embeddings",
+            "name": "Design Optimizer",
             "description": "",
-            "slug": "software"
+            "slug": "design"
         },
         {
             "type": "project",
-            "name": "ML w/ Systematics",
+            "name": "MMI",
             "description": "",
-            "slug": "software"
+            "slug": "imaging"
         },
         {
             "type": "project",
-            "name": "Gaussian Processes",
+            "name": "Grants Manager",
             "description": "",
-            "slug": "software"
+            "slug": "grantsmanager"
         },
         {
             "type": "project",
-            "name": "scikit-optimize",
+            "name": "iMedidata",
             "description": "",
-            "slug": "software"
+            "slug": "imedidata"
         },
         {
             "type": "project",
