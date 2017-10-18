@@ -8,8 +8,7 @@
             "date": "2012-05-05 23:50:11",
             "slug": "ditem-kyle-cranmer",
             "links": [
-                "OPAL",
-                "EPP@NYU"
+                "OPAL"
             ]
         },
         {
@@ -20,8 +19,7 @@
             "date": "2012-05-09 15:53:27",
             "slug": "ditem-lukas-heinrich",
             "links": [
-                "OPAL",
-                "EPP@NYU"
+                "OPAL"
             ]
         },
         {
@@ -33,7 +31,7 @@
             "slug": "ditem-gilles-louppe",
             "links": [
                 "Coder",
-                "EPP@NYU"
+                "Cloud Admin"
             ]
         },
         {
@@ -45,7 +43,7 @@
             "slug": "ditem-gilles-louppe",
             "links": [
                 "Cloud Admin",
-                "EPP@NYU"
+                "Coder"
             ]
         },
         {
@@ -57,7 +55,7 @@
             "slug": "ditem-gilles-louppe",
             "links": [
                 "Cloud Admin",
-                "EPP@NYU"
+                "Coder"
             ]
         },
         {
@@ -75,7 +73,7 @@
         }
 
     ],
-    "products": [
+    "product": [
         {
             "type": "product",
             "name": "Batch Uploader",
@@ -164,7 +162,7 @@
             "slug": "meds"
         },
         {
-            "type": "project",
+            "type": "product",
             "name": "RCM",
             "description": "",
             "slug": "rcm"
