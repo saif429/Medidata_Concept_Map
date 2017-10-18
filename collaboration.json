@@ -44,7 +44,7 @@
             "date": "2012-05-09 15:53:27",
             "slug": "ditem-gilles-louppe",
             "links": [
-                "Carl",
+                "Cloud Admin",
                 "EPP@NYU"
             ]
         },
@@ -56,7 +56,7 @@
             "date": "2012-05-09 15:53:27",
             "slug": "ditem-gilles-louppe",
             "links": [
-                "Carl",
+                "Cloud Admin",
                 "EPP@NYU"
             ]
         },
@@ -78,24 +78,24 @@
     "projects": [
         {
             "type": "project",
-            "name": "RooStats",
+            "name": "Batch Uploader",
             "description": "The statistical tools used widely at the LHC, and almost exclusively for the Higgs discovery.",
             "group": "11",
-            "slug": "roostats"
+            "slug": "batchuploader"
         },
         {
             "type": "project",
-            "name": "HistFactory",
+            "name": "Balance RTSM",
             "description": "A tool for building statistical models based on histogram templates, with a rich set of components for modeling systeamtic uncertainties through simulation-based and data-driven approaches.",
             "group": "11",
-            "slug": "histfactory"
+            "slug": "balance"
         },
         {
             "type": "project",
-            "name": "Carl",
-            "description": "Carl is a toolbox for likelihood-free inference - <a href=\"http://diana-hep.org/carl\">documentation</a> | <a href=\"https://github.com/diana-hep/carl\">code</a>",
+            "name": "Cloud Admin",
+            "description": "Cloud Admin is a toolbox for likelihood-free inference - <a href=\"http://diana-hep.org/carl\">documentation</a> | <a href=\"https://github.com/diana-hep/carl\">code</a>",
             "group": "11",
-            "slug": "carl"
+            "slug": "cloudadmin"
         },
         {
             "type": "project",
