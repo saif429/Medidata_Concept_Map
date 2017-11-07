@@ -98,7 +98,7 @@
         {
             "type": "product",
             "name": "Coder",
-            "description": "A coder to make it possible to reinterpret experimental results in the context of a different theoretical  model.",
+            "description": "<div style=\"width: 960px; height: 720px; margin: 10px; position: relative;\"><iframe allowfullscreen frameborder=\"0\" style=\"width:960px; height:720px\" src=\"https://www.lucidchart.com/documents/embeddedchart/670444d6-2560-42d8-978a-34032256e1a4\" id=\"laFMRnNL4TQE\"></iframe></div>",
             "group": "12",
             "slug": "coder"
         },
