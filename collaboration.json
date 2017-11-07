@@ -3,7 +3,7 @@
         {
             "type": "ditem",
             "name": "Study Planning",
-            "description": "<a href=\"http://theoryandpractice.org\">Kyle Cranmer</a> is a professor of phyiscs and data science at NYU.",
+            "description": "<div style=\"width: 480px; height: 360px; margin: 10px; position: relative;\"><iframe allowfullscreen frameborder=\"0\" style=\"width:480px; height:360px\" src=\"https://www.lucidchart.com/documents/embeddedchart/670444d6-2560-42d8-978a-34032256e1a4\" id=\"pRvM3d7h5y6_\"></iframe></div>",
             "ditem": 1,
             "date": "2012-05-05 23:50:11",
             "slug": "ditem-kyle-cranmer",
