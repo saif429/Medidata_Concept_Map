@@ -17,7 +17,9 @@ $(function(){
 });
 function plotCollaborationMap()
 {
-  d3.json("./collaboration.json", function(dataJson) {
+  var url = "https://saif429.github.io/Medidata_Concept_Map/collaboration.json";
+  
+  d3.json(url, function(dataJson) {
     var plot = new CollaborationMap("graph", "graph-info", dataJson);
   });
 }
