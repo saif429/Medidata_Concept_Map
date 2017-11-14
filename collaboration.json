@@ -77,7 +77,7 @@
         {
             "type": "product",
             "name": "Batch Uploader",
-            "description": "The statistical tools used widely at the LHC, and almost exclusively for the Higgs discovery.",
+            "description": "<div style=\"width: 640px; height: 480px; margin: 10px; position: relative;\"><iframe allowfullscreen frameborder=\"0\" style=\"width:640px; height:480px\" src=\"https://www.lucidchart.com/documents/embeddedchart/d954e049-fa07-48b9-843a-113500715b94\" id=\"spROHcOgys9d\"></iframe></div>",
             "group": "11",
             "slug": "batchuploader"
         },
