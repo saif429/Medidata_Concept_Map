@@ -9,9 +9,9 @@
 /* ditem carousel */
 #ditem-container {
   position: relative;
-  width: 750px;
-  height: 600px;
-  margin: 20px auto;
+  width: 1500px;
+  height: 1200px;
+  margin: 40px auto;
   /* vertical space = (total height - ditem height - height of bottom thing) / 2 */
   padding-top: 65px;
 }
